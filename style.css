@@ -2,4 +2,30 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    --font-color:#333949;
+}
+@font-face{
+    font-family: Metropolis;
+    src: url("./fonts/Metropolis-Bold.otf");
+}
+#header{
+    padding:50px 0 100px;
+}
+.container{
+    width:75%;
+    margin:auto;
+}
+.header_container{display:flex;justify-content: space-between;}
+.navbar ul{display:flex;list-style-type: none;}
+.navbar ul li{
+    padding:10px 20px;
+}
+.navbar ul li a{
+    color:var(--font-color);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+    text-decoration: none;
 }
