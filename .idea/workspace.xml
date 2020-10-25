@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jNO5Pou99DP1d7AejEEfmuqghB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="" />
+      <created>1603640898488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603640898488</updated>
+      <workItem from="1603640899641" duration="1298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="311" width="449" height="522" key="FileChooserDialogImpl" timestamp="1603642128809">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="761" y="311" width="449" height="522" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603642128809" />
+    <state x="851" y="468" width="279" height="209" key="Github.ShareDialog" timestamp="1603642200384">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="851" y="468" width="279" height="209" key="Github.ShareDialog/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603642200384" />
+    <state x="479" y="204" width="1024" height="737" key="SettingsEditor" timestamp="1603641748262">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="479" y="204" width="1024" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603641748262" />
+  </component>
+</project>
