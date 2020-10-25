@@ -102,10 +102,40 @@
     line-height: 11px;
     letter-spacing: 0.4em;
     color:var(--font-blue);
+    display: block;
 }
 body{
-    background-image: url(image/bg2.jpg);
-    background-size: cover;
-    background-position: 50% 0;
-    height:100%;
+    /*background-image: url(image/images.jpeg);*/
+    /*background-size: cover;*/
+    /*background-position: 50% 0;*/
+    /*height:100%;*/
+
+}
+#works{
+    position:relative;
+    top:-200px;
+}
+.works_container{
+position:relative;
+}
+.work_title{
+    position: absolute;
+    top:0;
+    z-index: 1;
+}
+#works img{
+    position:absolute;
+    top:-400px;
+    z-index:0;
+}
+.works_container h2{
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    color:var(--font-color);
+}
+#blue{
+    background: #E9F5FF;
 }
