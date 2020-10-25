@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-BlackItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-BoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-ExtraBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-ExtraBoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-ExtraLight.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-ExtraLightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-LightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-Medium.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-MediumItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-RegularItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-SemiBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-SemiBoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-Thin.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Metropolis-ThinItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SIL Open Font License.txt" afterDir="false" />
+    <list default="true" id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="end section start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -35,6 +16,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,12 +46,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603640898488</updated>
-      <workItem from="1603640899641" duration="3316000" />
+      <workItem from="1603640899641" duration="4916000" />
     </task>
+    <task id="LOCAL-00001" summary="end header&#10;start section main">
+      <created>1603647085887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603647085887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="end header&#10;start section main" />
+    <MESSAGE value="end section start" />
+    <option name="LAST_COMMIT_MESSAGE" value="end section start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="761" y="311" width="449" height="522" key="FileChooserDialogImpl" timestamp="1603642128809">
@@ -88,5 +83,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="479" y="204" width="1024" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603641748262" />
+    <state x="585" y="301" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1603647108156">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="585" y="301" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603647108156" />
   </component>
 </project>
