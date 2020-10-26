@@ -284,7 +284,7 @@
     margin-bottom: 10px;
 }
 .f-text .description{
-    height:116px;
+    height:116px!important;
 }
 #footer{
     position:relative;
@@ -297,6 +297,7 @@
     width:100%;
     background-size: cover;
     min-height:527px;
+    padding-bottom: 50px;
 }
 .footer_logo{
     width:159px;
@@ -396,4 +397,25 @@
 }
 main{
     position:relative;
+}
+
+
+@media (max-width:425px){
+    .bg_gallery{
+        width:100%;
+    }
+    .navbar ul{
+        flex-direction: column;
+    }
+    #image_bg{display:none;}
+    #works{
+        margin-top: 50px;}
+    .works_product{flex-direction: column;}
+    .works_product .col{
+        margin:15px 0;
+    }
+    .col_gallery{margin:auto;}
+    #gallery{flex-direction: column;}
+    .gallery{display:none;}
+    #contact{padding:20px;}
 }
