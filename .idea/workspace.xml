@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="section gallery end">
-      <change afterPath="$PROJECT_DIR$/image/bg_footer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/fb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/inst.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/youtube.svg" afterDir="false" />
+    <list default="true" id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="section footer end">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -73,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603640898488</updated>
       <workItem from="1603640899641" duration="14862000" />
-      <workItem from="1603698618243" duration="8875000" />
+      <workItem from="1603698618243" duration="9778000" />
     </task>
     <task id="LOCAL-00001" summary="end header&#10;start section main">
       <created>1603647085887</created>
@@ -110,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603702278335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="section footer end">
+      <created>1603708387828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603708387828</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +136,8 @@
     <MESSAGE value="add plugin ripples" />
     <MESSAGE value="section gallery start" />
     <MESSAGE value="section gallery end" />
-    <option name="LAST_COMMIT_MESSAGE" value="section gallery end" />
+    <MESSAGE value="section footer end" />
+    <option name="LAST_COMMIT_MESSAGE" value="section footer end" />
   </component>
   <component name="WindowStateProjectService">
     <state x="761" y="311" width="449" height="522" key="FileChooserDialogImpl" timestamp="1603642128809">
@@ -153,9 +156,13 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="479" y="204" width="1024" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603641748262" />
-    <state x="585" y="301" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1603702286199">
+    <state x="585" y="301" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1603708391629">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="585" y="301" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603702286199" />
+    <state x="585" y="301" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603708391629" />
+    <state x="714" y="161" width="618" height="918" key="find.popup" timestamp="1603708355267">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="714" y="161" width="618" height="918" key="find.popup/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1603708355267" />
   </component>
 </project>

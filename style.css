@@ -287,13 +287,16 @@
     height:116px;
 }
 #footer{
+    position:relative;
+    padding-top: 150px;
+
+}
+.footer_container{
     background: url(./image/bg_footer.svg)no-repeat;
     background-position: center center;
     width:100%;
     background-size: cover;
     min-height:527px;
-    margin-top: 150px;
-
 }
 .footer_logo{
     width:159px;
@@ -378,4 +381,19 @@
 }
 .footer_bottom li{
     margin:5px;
+}
+.bg_gallery{
+    position:absolute;
+    left:0;
+    top:15%;
+    z-index: -1;
+}
+.bg_contact{
+    position:absolute;
+    right:0;
+    bottom:0;
+    z-index: -1;
+}
+main{
+    position:relative;
 }
