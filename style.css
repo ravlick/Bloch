@@ -254,7 +254,7 @@
     width:100%;
     height:50px;
     outline: none;
-    /*border-color: transparent;*/
+    border-color: transparent;
 }
 .f-text{
     margin:25px 0;
