@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084ef79a-1c51-419e-b491-c8c9cc7db7ed" name="Default Changelist" comment="add plugin ripples">
-      <change afterPath="$PROJECT_DIR$/image/images.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.easing-1.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/raindrops.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
@@ -55,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603640898488</updated>
       <workItem from="1603640899641" duration="14862000" />
+      <workItem from="1603698618243" duration="1851000" />
     </task>
     <task id="LOCAL-00001" summary="end header&#10;start section main">
       <created>1603647085887</created>
